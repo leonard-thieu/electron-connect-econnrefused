@@ -1,0 +1,12 @@
+{
+  "name": "electron-connect-econnrefused",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "1.6.7",
+    "electron-connect": "^0.6.1"
+  }
+}
