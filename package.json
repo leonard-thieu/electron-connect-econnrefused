@@ -3,10 +3,11 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "electron ."
+    "start": "gulp serve"
   },
   "devDependencies": {
     "electron": "1.6.7",
-    "electron-connect": "^0.6.1"
+    "electron-connect": "^0.6.1",
+    "gulp": "^3.9.1"
   }
 }
